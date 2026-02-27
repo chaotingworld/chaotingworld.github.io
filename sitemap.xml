@@ -4,6 +4,8 @@
   <url>
     <loc>https://chaotingworld.github.io/infrastructure/</loc>
   </url><url>
+    <loc>https://chaotingworld.github.io/terms/</loc>
+  </url><url>
     <loc>https://chaotingworld.github.io/</loc>
   </url><url>
     <loc>https://chaotingworld.github.io/security/</loc>
@@ -11,5 +13,7 @@
     <loc>https://chaotingworld.github.io/software/</loc>
   </url><url>
     <loc>https://chaotingworld.github.io/about/</loc>
+  </url><url>
+    <loc>https://chaotingworld.github.io/privacy/</loc>
   </url>
 </urlset>
